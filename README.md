@@ -18,7 +18,7 @@ $ pip install -r requirements.txt
 To set up the image scraper on your machine, clone this repository and install the dependencies as shown below:
 
 ```bash
-$ git clone https://github.com/ultralytics/google-images-download
+$ git clone https://github.com/Anoopdata/google_image_download.git
 $ cd google-images-download
 $ pip install -r requirements.txt
 ```
